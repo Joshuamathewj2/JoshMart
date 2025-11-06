@@ -1,0 +1,5 @@
+Login Page:
+http://localhost/grocery/login.php
+
+DB:
+http://localhost/phpmyadmin/index.php?route=/database/structure&db=grocery_db
